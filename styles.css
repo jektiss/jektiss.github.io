@@ -121,13 +121,3 @@
     background:#262626;
     color:#747474;
 }
-
-#parallelogram {
-    width: 500px;
-    height: 1500px;
-    transform: skew(20deg);
-    background: #555;
-    opacity: 0.7;
-    color: black;
-    z-index: 1;
-}
